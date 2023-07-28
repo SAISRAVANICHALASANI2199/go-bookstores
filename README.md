@@ -1,8 +1,8 @@
 # go-bookstores
 
-##### Name - sai sravani chalasani
+### Name - sai sravani chalasani
 
-##### How to run program :
+### How to run program :
 
 #### step 1 : clone the repository.
 #### step 2 : once you clone open the folder in vscode.
